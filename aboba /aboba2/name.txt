@@ -1,3 +1,6 @@
+#profile-update-interval: 1
+#profile-title: 🛜 ВПН|VIP
+#announce: Совет: Настройки>Подписки>Сортировать по пингу, а затем нажми на спидометр. Меньше ms лучше, регулярно нажимайте на 🔄️
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@in-de-wc.ray-balance.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=Vwjuz1ao8dsRTSqK9ewfDhb36nBa5n3Fr8bW8bioRyU&type=tcp#🇪🇺%20Автовыбор%20%231
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@IN-NL-HN-01.ray-balance.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=random&pbk=29rxp4KkkiRwPRgWGnQH60t8ZNkYYv6VAyyGo3ExKWc&type=tcp#🇪🇺%20Автовыбор%20%232
 vless://91bbe282-f2ba-46a6-8752-36ae55279169@avstrianoda.normbot.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=avstrianoda.normbot.ru&fp=random&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&type=tcp#🇦🇹%20Австрия%20%231
