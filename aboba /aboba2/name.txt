@@ -1,15 +1,15 @@
 #profile-update-interval: 1
 #profile-title: FROZYY VPN
-vless://3d243df5-9cda-4aac-89d5-354de77d79e2@159.100.9.64:2053?encryption=none&type=grpc&security=tls&mode=gun&serviceName=grpc&fp=chrome&sni=nice.ducks.tel&alpn=http%2F1.1%2Ch2#FROZYY_VPN
-vless://3d243df5-9cda-4aac-89d5-354de77d79e2@159.100.9.64:2053?encryption=none&type=grpc&security=tls&mode=gun&serviceName=grpc&sni=nice.ducks.tel&alpn=http%2F1.1%2Ch2#FROZYY_VPN
-vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@45.89.190.153:443?security=reality&encryption=none&pbk=UxIul3SC4GBqKQz-jtM520nmVkKnmtElSYRnko4jw0w&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=portal.kontiplus.ru&sid=2356645674#FROZYY_VPN
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@node215.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#FROZYY_VPN
-vless://3b7e7ab6-feb0-4c12-b575-b5b2b8e7b8e5@94.228.125.254:443?encryption=none&type=xhttp&path=%2Fws&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%7D&security=reality&sni=vk.com&fp=chrome&pbk=i1kgdvvNoTAdTsmFcdFBItn1wakoTNZHC1F7nTCpLlo&sid=6f9ae5be33ead6f9#FROZYY_VPN
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@node111.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#FROZYY_VPN
-hysteria2://hysteria2_fastlane_o073bs8g3%3AnVqTWRPkE589d7FZtLKjwgnwNxztfAgv@2.27.28.104:1935?security=tls&sni=de5.h.fastlanehosting.ru#FROZYY_VPN
-hysteria2://hysteria2_fastlane_ecivyd6kj:vSeiMjvxbeLFHTlp0J817t9XL6MlzQGt@91.132.160.243:1935/?sni=de6.h.fastlanehosting.ru#FROZYY_VPN
-hysteria2://hysteria2_fastlane_ecivyd6kj:vSeiMjvxbeLFHTlp0J817t9XL6MlzQGt@91.132.160.243:1935?security=tls&sni=de6.h.fastlanehosting.ru#FROZYY_VPN
-hysteria2://hysteria2_fastlane_qszb6rkh0%3A6Yk5GwoZmszsRaxmLJGqJGo2SIuXeNr5@144.31.134.98:1935/?sni=nl1.h.smartaisupport.ru#FROZYY_VPN
-hysteria2://hysteria2_fastlane_qszb6rkh0%3A6Yk5GwoZmszsRaxmLJGqJGo2SIuXeNr5@144.31.134.98:1935?security=tls&sni=nl1.h.smartaisupport.ru#FROZYY_VPN
-hysteria2://hysteria2_fastlane_ev14fzgmm%3ATWksDbZ7rvJkAyxMC6JT1tD5V2rlOtKi@64.188.107.79:1935/?sni=fn1.h.fastlanehosting.ru#FROZYY_VPN
-hysteria2://hysteria2_fastlane_ev14fzgmm%3ATWksDbZ7rvJkAyxMC6JT1tD5V2rlOtKi@64.188.107.79:1935?security=tls&sni=fn1.h.fastlanehosting.ru#FROZYY_VPN
+vless://3d243df5-9cda-4aac-89d5-354de77d79e2@159.100.9.64:2053?encryption=none&type=grpc&security=tls&mode=gun&serviceName=grpc&fp=chrome&sni=nice.ducks.tel&alpn=http%2F1.1%2Ch2#🇷🇺 FROZYY_VPN
+vless://3d243df5-9cda-4aac-89d5-354de77d79e2@159.100.9.64:2053?encryption=none&type=grpc&security=tls&mode=gun&serviceName=grpc&sni=nice.ducks.tel&alpn=http%2F1.1%2Ch2#🇷🇺 FROZYY_VPN
+vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@45.89.190.153:443?security=reality&encryption=none&pbk=UxIul3SC4GBqKQz-jtM520nmVkKnmtElSYRnko4jw0w&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=portal.kontiplus.ru&sid=2356645674#🇷🇺 FROZYY_VPN
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@node215.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#🇷🇺 FROZYY_VPN
+vless://3b7e7ab6-feb0-4c12-b575-b5b2b8e7b8e5@94.228.125.254:443?encryption=none&type=xhttp&path=%2Fws&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%7D&security=reality&sni=vk.com&fp=chrome&pbk=i1kgdvvNoTAdTsmFcdFBItn1wakoTNZHC1F7nTCpLlo&sid=6f9ae5be33ead6f9#🇸🇪 FROZYY_VPN
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@node111.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#🇸🇪 FROZYY_VPN
+hysteria2://hysteria2_fastlane_o073bs8g3%3AnVqTWRPkE589d7FZtLKjwgnwNxztfAgv@2.27.28.104:1935?security=tls&sni=de5.h.fastlanehosting.ru#🇧🇪 FROZYY_VPN
+hysteria2://hysteria2_fastlane_ecivyd6kj:vSeiMjvxbeLFHTlp0J817t9XL6MlzQGt@91.132.160.243:1935/?sni=de6.h.fastlanehosting.ru#🇬🇧 FROZYY_VPN
+hysteria2://hysteria2_fastlane_ecivyd6kj:vSeiMjvxbeLFHTlp0J817t9XL6MlzQGt@91.132.160.243:1935?security=tls&sni=de6.h.fastlanehosting.ru#🇬🇧 FROZYY_VPN
+hysteria2://hysteria2_fastlane_qszb6rkh0%3A6Yk5GwoZmszsRaxmLJGqJGo2SIuXeNr5@144.31.134.98:1935/?sni=nl1.h.smartaisupport.ru#🇳🇱 FROZYY_VPN
+hysteria2://hysteria2_fastlane_qszb6rkh0%3A6Yk5GwoZmszsRaxmLJGqJGo2SIuXeNr5@144.31.134.98:1935?security=tls&sni=nl1.h.smartaisupport.ru#🇳🇱 FROZYY_VPN
+hysteria2://hysteria2_fastlane_ev14fzgmm%3ATWksDbZ7rvJkAyxMC6JT1tD5V2rlOtKi@64.188.107.79:1935/?sni=fn1.h.fastlanehosting.ru#🇫🇮 FROZYY_VPN
+hysteria2://hysteria2_fastlane_ev14fzgmm%3ATWksDbZ7rvJkAyxMC6JT1tD5V2rlOtKi@64.188.107.79:1935?security=tls&sni=fn1.h.fastlanehosting.ru#🇫🇮 FROZYY_VPN
