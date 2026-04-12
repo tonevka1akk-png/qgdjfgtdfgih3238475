@@ -13,3 +13,6 @@ hysteria2://hysteria2_fastlane_qszb6rkh0%3A6Yk5GwoZmszsRaxmLJGqJGo2SIuXeNr5@144.
 hysteria2://hysteria2_fastlane_qszb6rkh0%3A6Yk5GwoZmszsRaxmLJGqJGo2SIuXeNr5@144.31.134.98:1935?security=tls&sni=nl1.h.smartaisupport.ru#🇳🇱 FROZYY_VPN
 hysteria2://hysteria2_fastlane_ev14fzgmm%3ATWksDbZ7rvJkAyxMC6JT1tD5V2rlOtKi@64.188.107.79:1935/?sni=fn1.h.fastlanehosting.ru#🇫🇮 FROZYY_VPN
 hysteria2://hysteria2_fastlane_ev14fzgmm%3ATWksDbZ7rvJkAyxMC6JT1tD5V2rlOtKi@64.188.107.79:1935?security=tls&sni=fn1.h.fastlanehosting.ru#🇫🇮 FROZYY_VPN
+vless://11f06c3b-e1b2-4fea-8f0d-e064dbbf6aa1@lv4.darknet.cv:8443?security=reality&encryption=none&pbk=I_Bg1n9zn_9gGnM4buDB-_cqeeqQ1MP8tEWIWDM3hyU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a2b223d4#для%20ютуба
+vless://4c588bf1-fcb6-4a34-9715-2397b532f554@193.58.122.191:443?security=reality&encryption=none&pbk=GVJXsG18BPav2jsXTl5Z3UIoJdUp5eIsTqTYIcMo-Es&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=node-31da06.binngo.online&sid=3f96266f#для%20ии%201
+vless://4c588bf1-fcb6-4a34-9715-2397b532f554@193.58.122.191:443?security=reality&encryption=none&pbk=GVJXsG18BPav2jsXTl5Z3UIoJdUp5eIsTqTYIcMo-Es&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=node-31da06.binngo.online&sid=3f96266f#для%20ии%202
